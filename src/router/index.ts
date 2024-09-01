@@ -1,5 +1,5 @@
-import HomeView from '../assets/views/HomeView'
 import { createRouter, createWebHistory } from 'vue-router'
+import HomeView from '@/assets/views/HomeView'
 
 
 const router = createRouter({
